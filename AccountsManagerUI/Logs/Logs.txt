@@ -1,0 +1,5 @@
+Message Manager:
+8/4/2020 2:43:51 PM
+Calling Class: UserManager
+Message Name: Invalid user
+ Message:Unable to create user as not all fields are valid
